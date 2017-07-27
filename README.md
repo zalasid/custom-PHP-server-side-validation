@@ -1,5 +1,5 @@
 ## PHP Rest API Custom validation rules Helper Class.
-
+ This is Package that will help you to set custom validation at server side.
 # Import database
  Import a dummy database. Use mydb.sql file for that.
  
